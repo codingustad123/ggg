@@ -97,7 +97,10 @@ width: 800px;
   width: 150px;
   padding: 10px;
 }
-
+@media screen and (max-width: 600px) {
+  .lala {
+  width:300px;
+  }
 
 
 
